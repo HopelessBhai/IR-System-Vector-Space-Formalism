@@ -74,9 +74,6 @@ Additionally, when a custom query is provided, the IDs of the five most relevant
 - When using the `-autocomplete` flag, it must always be used in conjunction with the `-custom` flag.
 - Ensure that the dataset folder is correctly specified if you are using a dataset for evaluation.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Implementation
 
